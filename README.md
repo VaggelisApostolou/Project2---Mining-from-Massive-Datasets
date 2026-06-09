@@ -6,8 +6,11 @@ Important!!! SAND is currently incompatible with NumPy 2.x. After executing the 
 In Google Colab: Runtime → Restart Session and then execute the notebook starting from the second code cell. Failure to restart the session may cause import errors when loading the SAND implementation.
 
 How to run:
+
 1)Run the first notebook cell
+
 2) Restart the runtime/session and continue execution from the second cell and below (as mentioned above).
+
 3)Run all the rest cells sequentially
 
 The following datasets from TSB-UAD are used (you need to upload them in the “contents” section in Google Colab):
