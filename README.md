@@ -9,7 +9,7 @@ How to run:
 
 1)Run the first notebook cell
 
-2) Restart the runtime/session and continue execution from the second cell and below (as mentioned above).
+2)Restart the runtime/session and continue execution from the second cell and below (as mentioned above).
 
 3)Run all the rest cells sequentially
 
